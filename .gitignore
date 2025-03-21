@@ -1,0 +1,13 @@
+# Hidden directories
+*.log
+.idea
+__pycache__
+
+# Virtual environments
+venv
+
+# Generated gifs
+*.gif
+
+# Local text files
+*.txt
